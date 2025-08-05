@@ -1,0 +1,58 @@
+[
+  {
+    "id": "hexia",
+    "title": {
+      "es": "Hexia Web Corporativa",
+      "en": "Hexia Corporate Website"
+    },
+    "description": {
+      "es": "Implementación completa en React con diseño responsivo, integración de correo para contacto y despliegue continuo.",
+      "en": "Complete implementation in React with responsive design, email integration for contact, and continuous deployment."
+    },
+    "image": "/images/project-hexia.png",
+    "url": "https://hexia.online",
+    "tags": ["React", "JavaScript", "HTML5", "CSS3"]
+  },
+  {
+    "id": "ai-coffee",
+    "title": {
+      "es": "Clasificador de Café con IA",
+      "en": "AI Coffee Classifier"
+    },
+    "description": {
+      "es": "Modelo de visión artificial para la clasificación de granos de café verde arábico, desarrollado como práctica académica.",
+      "en": "Computer vision model for the classification of green arabica coffee beans, developed as an academic internship."
+    },
+    "image": "/images/project-ai-coffee.png",
+    "url": "https://huggingface.co/spaces/Pucho/Clasificacion_cafe",
+    "tags": ["Python", "IA"]
+  },
+  {
+    "id": "rest-api",
+    "title": {
+      "es": "API REST para Blog",
+      "en": "Blog REST API"
+    },
+    "description": {
+      "es": "Una API RESTful construida con Node.js, Express y MongoDB para gestionar posts, usuarios y comentarios de un blog.",
+      "en": "A RESTful API built with Node.js, Express, and MongoDB to manage blog posts, users, and comments."
+    },
+    "image": "/images/project-api.png",
+    "url": "https://github.com/PatricioBet",
+    "tags": ["Node.js", "JavaScript", "MongoDB"]
+  },
+    {
+    "id": "portfolio",
+    "title": {
+      "es": "Portafolio Personal",
+      "en": "Personal Portfolio"
+    },
+    "description": {
+      "es": "Este mismo portafolio, diseñado en React con TailwindCSS, multi-idioma y modo claro/oscuro.",
+      "en": "This very portfolio, designed in React with TailwindCSS, multi-language and light/dark mode."
+    },
+    "image": "https://placehold.co/600x400/1e293b/ffffff?text=Portfolio",
+    "url": "https://github.com/PatricioBet",
+    "tags": ["React", "JavaScript", "Tailwind"]
+  }
+]

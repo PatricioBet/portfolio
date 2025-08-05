@@ -1,0 +1,18 @@
+{
+    "nav_projects": "Projects",
+    "nav_about": "About",
+    "nav_skills": "Skills",
+    "nav_contact": "Contact",
+    "hero_greeting": "Hi, I'm",
+    "hero_title": "Full Stack Developer",
+    "hero_bio": "Passionate about designing clean, efficient, and scalable solutions. I adapt quickly to new environments and enjoy collaborating in multidisciplinary teams.",
+    "projects_title": "Projects",
+    "projects_filter_all": "All",
+    "about_title": "About Me",
+    "about_text": "Full Stack Developer trained in Software Engineering at the National University of Loja. With a solid command of Python, JavaScript (React/Node.js), and Java. I seek to apply my skills to create technology that adds value and solves complex problems. My experience in academic and personal projects has given me a solid foundation in agile methodologies and version control with Git.",
+    "skills_title": "Technical Skills",
+    "contact_title": "Let's Talk",
+    "contact_text": "I am currently open to new opportunities. If you have a project in mind or think I could be a good fit for your team, feel free to contact me.",
+    "contact_button": "Send me an email",
+    "footer_text": "Designed and built by PatricioBet"
+}

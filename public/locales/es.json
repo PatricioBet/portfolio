@@ -1,0 +1,18 @@
+{
+    "nav_projects": "Proyectos",
+    "nav_about": "Sobre mí",
+    "nav_skills": "Habilidades",
+    "nav_contact": "Contacto",
+    "hero_greeting": "Hola, soy",
+    "hero_title": "Desarrollador Full Stack",
+    "hero_bio": "Apasionado por diseñar soluciones limpias, eficientes y escalables. Me adapto rápido a nuevos entornos y disfruto colaborando en equipos multidisciplinarios.",
+    "projects_title": "Proyectos",
+    "projects_filter_all": "Todos",
+    "about_title": "Sobre Mí",
+    "about_text": "Desarrollador Full Stack formado en Ingeniería de Software por la Universidad Nacional de Loja. Con manejo sólido de Python, JavaScript (React/Node.js) y Java. Busco aplicar mis habilidades para crear tecnología que aporte valor y resolver problemas complejos. Mi experiencia en proyectos académicos y personales me ha dado una base sólida en metodologías ágiles y control de versiones con Git.",
+    "skills_title": "Habilidades Técnicas",
+    "contact_title": "Hablemos",
+    "contact_text": "Actualmente estoy abierto a nuevas oportunidades. Si tienes un proyecto en mente o crees que podría encajar en tu equipo, no dudes en contactarme.",
+    "contact_button": "Envíame un correo",
+    "footer_text": "Diseñado y construido por PatricioBet"
+}
