@@ -9,7 +9,7 @@
       "es": "Implementación completa en React con diseño responsivo, integración de correo para contacto y despliegue continuo.",
       "en": "Complete implementation in React with responsive design, email integration for contact, and continuous deployment."
     },
-    "image": "/images/project-hexia.png",
+    "image": "images/hexia-project.webp",
     "url": "https://hexia.online",
     "tags": ["React", "JavaScript", "HTML5", "CSS3"]
   },
@@ -23,7 +23,7 @@
       "es": "Modelo de visión artificial para la clasificación de granos de café verde arábico, desarrollado como práctica académica.",
       "en": "Computer vision model for the classification of green arabica coffee beans, developed as an academic internship."
     },
-    "image": "/images/project-ai-coffee.png",
+    "image": "/images/coffee-project.webp",
     "url": "https://huggingface.co/spaces/Pucho/Clasificacion_cafe",
     "tags": ["Python", "IA"]
   },
@@ -39,6 +39,6 @@
     },
     "image": "https://placehold.co/600x400/1e293b/ffffff?text=Portfolio",
     "url": "https://github.com/PatricioBet/portfolio",
-    "tags": ["React", "JavaScript", "Tailwind"]
+    "tags": ["React", "JavaScript", "Vite", "Tailwind"]
   }
 ]
