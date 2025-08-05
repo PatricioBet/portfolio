@@ -27,20 +27,6 @@
     "url": "https://huggingface.co/spaces/Pucho/Clasificacion_cafe",
     "tags": ["Python", "IA"]
   },
-  {
-    "id": "rest-api",
-    "title": {
-      "es": "API REST para Blog",
-      "en": "Blog REST API"
-    },
-    "description": {
-      "es": "Una API RESTful construida con Node.js, Express y MongoDB para gestionar posts, usuarios y comentarios de un blog.",
-      "en": "A RESTful API built with Node.js, Express, and MongoDB to manage blog posts, users, and comments."
-    },
-    "image": "/images/project-api.png",
-    "url": "https://github.com/PatricioBet",
-    "tags": ["Node.js", "JavaScript", "MongoDB"]
-  },
     {
     "id": "portfolio",
     "title": {
@@ -52,7 +38,7 @@
       "en": "This very portfolio, designed in React with TailwindCSS, multi-language and light/dark mode."
     },
     "image": "https://placehold.co/600x400/1e293b/ffffff?text=Portfolio",
-    "url": "https://github.com/PatricioBet",
+    "url": "https://github.com/PatricioBet/portfolio",
     "tags": ["React", "JavaScript", "Tailwind"]
   }
 ]
