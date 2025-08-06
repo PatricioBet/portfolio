@@ -37,7 +37,7 @@
       "es": "Este mismo portafolio, diseñado en React con TailwindCSS, multi-idioma y modo claro/oscuro.",
       "en": "This very portfolio, designed in React with TailwindCSS, multi-language and light/dark mode."
     },
-    "image": "https://patricio.dev/images/portfolio-project.webp",
+    "image": "/images/portfolio-project.webp",
     "url": "https://github.com/PatricioBet/portfolio",
     "tags": ["React", "JavaScript", "Vite", "Tailwind"]
   }
